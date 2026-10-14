@@ -110,6 +110,3 @@ The attacker used **DNS** to exfiltrate data. By embedding data in subdomain que
 - Learned how plaintext credentials can be exposed through unencrypted HTTP requests.
 - Improved my ability to correlate network activity with security alerts during an incident investigation.
 
----
-
-*This writeup is for educational purposes and documents activity within an authorized TryHackMe lab environment.*
