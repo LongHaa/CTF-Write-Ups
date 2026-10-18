@@ -226,4 +226,3 @@ Together, these observations support the alert as a **true positive for contact 
 
 ---
 
-*All screenshots were captured during the TryHackMe room investigation and are included in the `images/` directory.*
