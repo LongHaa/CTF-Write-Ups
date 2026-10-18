@@ -223,3 +223,7 @@ Together, these observations support the alert as a **true positive for contact 
 3. **Follow TCP streams to recover context.** Stream reconstruction revealed the exposed directory listing and its file links.
 4. **Extract and hash artifacts without executing them.** `--export-objects` and `sha256sum` enabled file identification and reputation checks while avoiding direct execution.
 5. **Corroborate the alert with multiple kinds of evidence.** Network data, recovered content, and sandbox results provided a stronger case than an unusual domain name or one security detection alone.
+
+---
+
+*All screenshots were captured during the TryHackMe room investigation and are included in the `images/` directory.*
